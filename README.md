@@ -1,16 +1,25 @@
-This is a SvelteKit fork of the nice and awesome [react-tailwind-portfolio](https://github.com/BraydenTW/react-tailwind-portfolio) by [Brayden W](https://github.com/BraydenTW).
+# sveltekit-tailwind-portfolio
+
+👨‍🎨 An open-source portfolio template built with SvelteKit, TypeScript and Tailwind.
+
+This is a fork of the nice and awesome [react-tailwind-portfolio](https://github.com/BraydenTW/react-tailwind-portfolio) by [Brayden Wright](https://github.com/BraydenTW). Please consider [buying him a coffee](https://buymeacoffee.com/braydenw) if you use this template.
 
 Status: 🚧 Work in progress. 🚧
 
-- react `partials/`-files were converted to SvelteKit via ChatGPT, did not work with typescript fully though.
+## TODOs
+
+- react `partials/`-files were converted to SvelteKit via ChatGPT, did not work with typescript fully though. Manual work needed.
 - replaced react icons font awesome with [svelte-fa](https://cweili.github.io/svelte-fa/)
 - integrated https://github.com/michalsnik/aos via [onMount()](https://svelte.dev/tutorial/onmount)
 
-## TODOs
-
 - [ ] use fa icons for skills dynamically
+- [ ] find replacement for github-btn
 
-# react-tailwind-portfolio
+<hr>
+
+Original documentation:
+
+## react-tailwind-portfolio
 
 👨‍🎨 An open-source portfolio template built with React and Tailwind.
 
