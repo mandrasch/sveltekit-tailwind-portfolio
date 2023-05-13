@@ -8,14 +8,20 @@ Please consider [buying him a coffee](https://buymeacoffee.com/braydenw) if you 
 
 Status: 🚧 Work in progress. 🚧
 
+## Local setup
+
+- `npm install`
+- `npm run dev -- -- open`
+
 ## TODOs
 
 - react `partials/`-files were converted to SvelteKit via ChatGPT, did not work with typescript fully though. Manual work needed.
 - replaced react icons font awesome with [svelte-fa](https://cweili.github.io/svelte-fa/)
 - integrated https://github.com/michalsnik/aos via [onMount()](https://svelte.dev/tutorial/onmount)
 
-- [ ] use fa icons for skills dynamically
+- [ ] use svelte-fa icons for skills dynamically
 - [ ] find replacement for github-btn
+- [ ] favicons, SEO, manifest.json, etc.
 
 <hr>
 
