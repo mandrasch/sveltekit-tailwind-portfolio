@@ -1,3 +1,15 @@
+This is a SvelteKit fork of the nice and awesome [react-tailwind-portfolio](https://github.com/BraydenTW/react-tailwind-portfolio) by [Brayden W](https://github.com/BraydenTW).
+
+Status: 🚧 Work in progress. 🚧
+
+- react `partials/`-files were converted to SvelteKit via ChatGPT, did not work with typescript fully though.
+- replaced react icons font awesome with [svelte-fa](https://cweili.github.io/svelte-fa/)
+- integrated https://github.com/michalsnik/aos via [onMount()](https://svelte.dev/tutorial/onmount)
+
+## TODOs
+
+- [ ] use fa icons for skills dynamically
+
 # react-tailwind-portfolio
 
 👨‍🎨 An open-source portfolio template built with React and Tailwind.
@@ -12,22 +24,22 @@ Check out the live demo here 👉️ https://react-tailwind-portfolio.braydentw.
 
 ## Table of contents
 
-* [Usage](#usage)
-  * [Available Scripts](#available-scripts)
-    * [npm start](#npm-start)
-    * [npm test](#npm-test)
-    * [npm run build](#npm-run-build)
-    * [npm run eject](#npm-run-eject)
-  * [Learn More](#learn-more)
-    * [Code Splitting](#code-splitting)
-    * [Analyzing the Bundle Size](#analyzing-the-bundle-size)
-    * [Making a Progressive Web App](#making-a-progressive-web-app)
-    * [Advanced Configuration](#advanced-configuration)
-    * [Deployment](#deployment)
-    * [npm run build fails to minify](#npm-run-build-fails-to-minify)
-  * [Google Analytics Setup](#google-analytics-setup)
-* [Terms and License](#terms-and-license)
-* [About Me](#about-me)
+- [Usage](#usage)
+  - [Available Scripts](#available-scripts)
+    - [npm start](#npm-start)
+    - [npm test](#npm-test)
+    - [npm run build](#npm-run-build)
+    - [npm run eject](#npm-run-eject)
+  - [Learn More](#learn-more)
+    - [Code Splitting](#code-splitting)
+    - [Analyzing the Bundle Size](#analyzing-the-bundle-size)
+    - [Making a Progressive Web App](#making-a-progressive-web-app)
+    - [Advanced Configuration](#advanced-configuration)
+    - [Deployment](#deployment)
+    - [npm run build fails to minify](#npm-run-build-fails-to-minify)
+  - [Google Analytics Setup](#google-analytics-setup)
+- [Terms and License](#terms-and-license)
+- [About Me](#about-me)
 
 ## Usage
 
@@ -38,6 +50,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 #### `npm install`
+
 To install the dependencies package.
 
 #### `npm start`
