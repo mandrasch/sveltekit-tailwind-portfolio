@@ -15,11 +15,10 @@ Status: 🚧 Work in progress. 🚧
 
 ## TODOs
 
-- react `partials/`-files were converted to SvelteKit via ChatGPT, did not work with typescript fully though. Manual work needed.
-- replaced react icons font awesome with [svelte-fa](https://cweili.github.io/svelte-fa/)
-- integrated https://github.com/michalsnik/aos via [onMount()](https://svelte.dev/tutorial/onmount)
-
-- [ ] use svelte-fa icons for skills dynamically
+- [x] react `partials/`-files were converted to SvelteKit via ChatGPT, did not work with typescript fully though. Manual work needed.
+- [x] replaced react icons font awesome with [svelte-fa](https://cweili.github.io/svelte-fa/)
+- [x] integrated https://github.com/michalsnik/aos via [onMount()](https://svelte.dev/tutorial/onmount)
+- [ ] use svelte-fa icons for skills dynamically as well
 - [ ] find replacement for github-btn
 - [ ] favicons, SEO, manifest.json, etc.
 
