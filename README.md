@@ -2,7 +2,9 @@
 
 👨‍🎨 An open-source portfolio template built with SvelteKit, TypeScript and Tailwind.
 
-This is a fork of the nice and awesome [react-tailwind-portfolio](https://github.com/BraydenTW/react-tailwind-portfolio) by [Brayden Wright](https://github.com/BraydenTW). Please consider [buying him a coffee](https://buymeacoffee.com/braydenw) if you use this template.
+Fork of awesome [react-tailwind-portfolio](https://github.com/BraydenTW/react-tailwind-portfolio) by [Brayden Wright](https://github.com/BraydenTW).
+
+Please consider [buying him a coffee](https://buymeacoffee.com/braydenw) if you use this template.
 
 Status: 🚧 Work in progress. 🚧
 
